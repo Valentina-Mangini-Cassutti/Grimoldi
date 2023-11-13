@@ -1,0 +1,119 @@
+
+{"Mujer": {
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_22975"
+},
+"Hombre":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_22976"
+},
+
+"Niños":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_22977"
+},
+"Accesorios":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_24021"
+},
+"PorOcasion":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_38688"
+},
+"Marcas":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_28533"
+},
+"Outlet":{
+	"GetFieldBy":"id",
+	"ValueToFind":"menu_22982"
+},
+"Carrito": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[contains(@href, '/compra/cart/')]"
+},
+"Grimoldi": {
+    "GetFieldBy": "PARTIAL_LINK_TEXT",
+    "ValueToFind": "https://www.grimoldi.com/"
+},      
+
+
+
+"calzadomujer": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@id='menu_23006']"
+},  
+"aircollection": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/aircollection/']"
+},  
+"accesoriosmujer": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/accesoriosmujer/']"
+},  
+"apie": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/a-pie/']"
+},  
+
+
+"calzadohombre": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/calzadohombre/']"
+},  
+"airhombre": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/airhombre/']"
+},  
+"accesorioshombre": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/accesorioshombre/']"
+},  
+"hushpuppies": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/hushpuppieshombre/']"
+},
+
+
+"calzadoninos": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/calzadoninos/']"
+},  
+"accesoriosninos": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[@href='/accesoriosninos/']"
+},  
+"Kickers": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[contains(@id,'26762')]"
+},
+
+
+"accesorios_mujer": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[contains(@id,'26041')]"
+},  
+"accesorios_hombre": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[contains(@id,'26042')]"
+},  
+
+
+"zapatosnoche": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[contains(@id,'menu_38739')]"
+},
+
+"loselegidosdecorine": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[contains(@id,'menu_38339')]"
+},
+
+"vans": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//a[contains(@id,'menu_28254')]"
+}
+
+
+
+}
